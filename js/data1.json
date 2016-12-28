@@ -1,0 +1,54 @@
+[{
+    "url" : "images/camping.jpg",
+    "img1" :"images/camping.jpg",
+    "clientName" : "Stratice Health Care:",
+    "workdetail" : "It a Health-Care Domain. I was in a team where we were responsible to build a EHR (Electronical Health Record) website. The purpose of this project is to maintain functionality of exsisting website and developing new functionality to enhance website more User Friendly."
+     
+     },{
+    
+    "url" : "images/grad.jpg",
+    "img1" :"images/grad.jpg",
+    "clientName" : "J P Morgan:",
+    "workdetail" : "Designed, coded, and tested enterprise-scale business critical web applications using single page applications (SPA) and related tools. Optimized system's efficiency,  Programmed application's API providing web services to other corporate technology."
+
+
+    },{
+      	
+    "url" : "images/hiking.jpg",
+    "img1":"images/hiking.jpg",
+    "clientName" : "ADP:",
+    "workdetail" :"I am a part of the team which is responsible to build and maintain application for the employee's benefits. The purpose of this project is to maintain functionality of exsisting website and developing new functionality to enhance website more User Friendly.",
+    "lists" : ["Responsible for writing utility classes, UI development using CSS3, HTML5, JavaScript, AJAX , Angular.","Developed and improved application using MVC Framework Angular, and Bootstrap.", "Used advanced level of HTML5, JavaScript, CSS3 and pure CSS layouts (table less).", "Co-ordinate with UX designers and develop static content using front end with", "Involved in Requirement gathering phase in order to gather the requirements from the business users and dealing with UX team to continuously accommodate changing users requirements", "Involved in using Git, for project management and version management.", "Developed Functional Requirement Document based on users’ requirement.","Done testing for cross browser functionalities so as to confirm the application consistency across various browsers.","Experienced in working in AGILE based development environment and participating in Scrum sessions."],
+    "SeeMore" : "See More" 
+
+
+    },{
+      	
+    "url" : "images/professnal.jpg",
+    "img1":"images/professnal.jpg"
+    },{
+      	
+    "url" : "images/waterfall.jpg",
+    "img1":"images/waterfall.jpg" 
+    },{
+      	
+    "url" : "images/waterpark.jpg",
+    "img1":"images/waterpark.jpg" 
+    },{
+      	
+    "url" : "images/chicago.jpg",
+    "img1":"images/chicago.jpg" 
+    },{
+      	
+    "url" : "images/office.jpg",
+    "img1":"images/office.jpg" 
+    },{
+      	
+    "url" : "images/biking.jpg",
+    "img1":"images/biking.jpg" 
+    },{
+      	
+    "url" : "images/motercycling.jpg",
+    "img1":"images/motercycling.jpg" 
+        
+}]

@@ -1,0 +1,37 @@
+
+		
+		{
+
+		"Welcome": "Welcome To Gaurav's Portfolio.",
+		"BackGround": "Background",
+		"Programmer" :"Programmer",
+		"Traveller" : "Traveller",
+		"Thinker": "Thinker",
+		"Introduction": "My Name is Gaurav Kushwaha. I am a Front-End Developer. I have an extensive knowledge in Front-end technologies like HTML, CSS, Javascript, Angular.JS, Bootstrap and many more.",
+		"WorkDetails": "Work Details:",
+		"Education" :"University:",
+		"School" : "Kent State University.",
+		"Degree": "Degree:",
+		"AppliedMathematics" : "Applied Mathematics",
+		"Graduation": "Pass Out Year:",
+		"PassOutYear": "MAY 2014",
+		"Address": "Kent, Ohio, 44240",
+		"Hobbies" : "Go for a long drive, hike, meet new people and explore new places. One day I want to travel the world.",
+		"clientdetails" : "Clients I have worked for:",
+		"adp": "images/adp.png",
+		"stratice": "images/straticehealthcare.png",
+		"chase": "images/J_P_Morgan.jpg",
+		"alt1":"Straticehealthcare",
+		"alt2":"Chase",
+		"alt3":"ADP",
+		"Responsibility": "Responsibilities:",
+		"clientName1" : "Stratice Health Care:",
+		"clientName2" : "J P Morgan:",
+		"clientName3" : "Spino Inc:",
+		"lists" : ["Responsible for writing utility classes, UI development using CSS3, HTML5, JavaScript, AJAX , Angular.","Developed and improved application using MVC Framework Angular, and Bootstrap.", "Used advanced level of HTML5, JavaScript, CSS3 and pure CSS layouts (table less).", "Co-ordinate with UX designers and develop static content using front end with", "Involved in Requirement gathering phase in order to gather the requirements from the business users and dealing with UX team to continuously accommodate changing users requirements", "Involved in using Git, for project management and version management.", "Developed Functional Requirement Document based on users’ requirement.","Done testing for cross browser functionalities so as to confirm the application consistency across various browsers.","Experienced in working in AGILE based development environment and participating in Scrum sessions.", "Complete Knowledge of health care and Finance domain."]
+		
+		}
+	
+
+			
+		
